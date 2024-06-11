@@ -1,4 +1,4 @@
-package abstract_fabric.speaker
+package abstract_fabric.example.speaker
 
 class AmazonSpeaker: Speaker {
     override fun sayHello() {

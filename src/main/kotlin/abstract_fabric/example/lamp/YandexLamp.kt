@@ -1,4 +1,4 @@
-package abstract_fabric.lamp
+package abstract_fabric.example.lamp
 
 class YandexLamp: Lamp {
 

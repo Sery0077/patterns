@@ -1,7 +1,7 @@
-package abstract_fabric
+package abstract_fabric.example
 
-import abstract_fabric.fabric.AmazonFactory
-import abstract_fabric.fabric.YandexFactory
+import abstract_fabric.example.fabric.AmazonFactory
+import abstract_fabric.example.fabric.YandexFactory
 
 fun main() {
     val ecosystem = Ecosystem.YANDEX
